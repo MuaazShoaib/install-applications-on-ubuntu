@@ -1,4 +1,13 @@
 # Install Applications on Ubuntu
+
+# Install tar.gz files In Ubuntu
+* wget https://download.jetbrains.com/python/dataspell-2021.3.tar.gz
+* vzf dataspell-2021.3.tar.gz
+* cd dataspell-2021.3.tar.gz
+* ./configure
+* make
+* sudo make install
+
 ## Only Office
 * sudo snap install onlyoffice-desktopeditors
 
