@@ -58,3 +58,7 @@ All developer tools: https://snapcraft.io/search?category=development
 ## OBS Studio
 * sudo apt install obs-studio
 
+## qbittorrent
+* sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+* sudo apt-get update && sudo apt-get install qbittorrent
+
