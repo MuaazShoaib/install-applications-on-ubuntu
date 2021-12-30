@@ -1,4 +1,5 @@
 # Install Applications on Ubuntu
+All developer tools: https://snapcraft.io/search?category=development
 
 # Install tar.gz files In Ubuntu
 * Step 1: Download your package/application in tar.gz form ==> wget https://download.jetbrains.com/python/dataspell-2021.3.tar.gz
@@ -45,4 +46,15 @@
 
 ## VS Code
 * sudo snap install code --classic
+
+## Dataspell
+* sudo snap install dataspell --classic
+
+## Openshot
+* sudo add-apt-repository ppa:openshot.developers/ppa
+* sudo apt update
+* sudo apt install openshot-qt python3-openshot
+
+## OBS Studio
+* sudo apt install obs-studio
 
