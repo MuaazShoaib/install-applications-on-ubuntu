@@ -1,16 +1,6 @@
 # Install Applications on Ubuntu
 All developer tools: https://snapcraft.io/search?category=development
 
-# Install tar.gz files In Ubuntu
-* Step 1: Download your package/application in tar.gz form ==> wget https://download.jetbrains.com/python/dataspell-2021.3.tar.gz
-* Step 2: Extract the .tar.gz file ==> tar xvzf dataspell-2021.3.tar.gz
-* Step 3: Navigate to the extracted folder ==> cd dataspell-2021.3
-* Step 4: Install the tarball ==> ./configure ==> make ==> sudo make install
-
-# Install tar.gz files In Ubuntu
-* Step 1: Download your package/application in tar.gz form ==> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-* Step 2: Install the package/application ==> sudo apt install google-chrome-stable_current_amd64.deb
-
 ## Only Office
 * sudo snap install onlyoffice-desktopeditors
 
@@ -61,4 +51,7 @@ All developer tools: https://snapcraft.io/search?category=development
 ## qbittorrent
 * sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
 * sudo apt-get update && sudo apt-get install qbittorrent
+
+# Gnome Pomodoro
+* sudo apt-get install gnome-shell-pomodoro
 
