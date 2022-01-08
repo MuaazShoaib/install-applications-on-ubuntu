@@ -1,6 +1,9 @@
 # Install Applications on Ubuntu
 All developer tools: https://snapcraft.io/search?category=development
 
+## Wallpaper
+https://www.pexels.com/photo/brown-mountains-2559941/
+
 ## Only Office
 * sudo snap install onlyoffice-desktopeditors
 
