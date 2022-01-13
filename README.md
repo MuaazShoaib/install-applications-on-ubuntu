@@ -2,7 +2,7 @@
 All developer tools: https://snapcraft.io/search?category=development
 
 ## Wallpaper
-https://www.pexels.com/photo/brown-mountains-2559941/
+https://www.pexels.com/photo/vehicle-passing-through-rural-area-2356071/
 
 ## Only Office
 * sudo snap install onlyoffice-desktopeditors
