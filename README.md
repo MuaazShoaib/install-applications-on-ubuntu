@@ -1,8 +1,23 @@
 # Install Applications on Ubuntu
 All developer tools: https://snapcraft.io/search?category=development
 
-## Wallpaper
-https://www.pexels.com/photo/vehicle-passing-through-rural-area-2356071/
+## Git
+* sudo apt install git
+* git --version
+
+## Python
+* sudo apt-get install python3.8
+* python3 --version
+* sudo apt install python3-pip
+* pip3 --version
+* pip install --upgrade pip
+* pip install tensorflow
+* pip install sklearn
+* pip install matplotlib
+* pip install numpy
+* pip install pandas
+* pip install jupyter
+* pip install notebook
 
 ## Only Office
 * sudo snap install onlyoffice-desktopeditors
@@ -16,14 +31,6 @@ https://www.pexels.com/photo/vehicle-passing-through-rural-area-2356071/
 
 ## Microsoft Teams
 * sudo snap install teams
-
-## Git
-* sudo apt install git
-* git --version
-
-## Python
-* sudo apt-get install python3.8
-* python3 --version
 
 ## Pycharm Community
 * sudo snap install pycharm-community --classic
