@@ -1,4 +1,4 @@
-# Install Applications on Ubuntu
+# Install Applications on Ubuntu or Zorin OS
 All developer tools: https://snapcraft.io/search?category=development
 
 ## Git
