@@ -1,5 +1,8 @@
-# Install Applications on Ubuntu or Zorin OS
+# Install Applications on Ubuntu
 All developer tools: https://snapcraft.io/search?category=development
+
+## Wallpaper
+* https://www.pexels.com/photo/black-google-smartphone-on-box-1482061/
 
 ## Git
 * sudo apt install git
