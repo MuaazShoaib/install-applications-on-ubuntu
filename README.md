@@ -4,6 +4,17 @@ All developer tools: https://snapcraft.io/search?category=development
 ## Wallpaper
 * https://www.pexels.com/photo/black-google-smartphone-on-box-1482061/
 
+## MySql Server && MySql Workbench
+* https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+* sudo apt install mysql-workbench-community
+
+## .NET SDK && Runtime
+* https://docs.microsoft.com/en-us/dotnet/core/install/linux-snap
+* sudo snap install rider --classic
+
+## Flutter
+* https://docs.flutter.dev/get-started/install/linux
+
 ## Git
 * sudo apt install git
 * git --version
