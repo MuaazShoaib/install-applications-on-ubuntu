@@ -3,6 +3,7 @@ All developer tools: https://snapcraft.io/search?category=development
 
 ## Wallpaper
 * https://www.pexels.com/photo/black-google-smartphone-on-box-1482061/
+* https://raw.githubusercontent.com/MuaazShoaib/install-applications-on-ubuntu/main/windows-10-light-theme-uhd-4k-wallpaper.jpg
 
 ## MySql Server && MySql Workbench
 * https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
