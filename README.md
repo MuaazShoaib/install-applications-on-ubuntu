@@ -2,7 +2,7 @@
 All developer tools: https://snapcraft.io/search?category=development
 
 ## Wallpaper
-* https://www.pexels.com/photo/scenic-view-of-mountains-during-dawn-1261728/
+* I have created this wallpaper on canva: https://raw.githubusercontent.com/MuaazShoaib/install-applications-on-ubuntu/main/desktop-wallpaper.png
 
 ## MySql Server && MySql Workbench
 * https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
